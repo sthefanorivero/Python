@@ -1,0 +1,14 @@
+{
+  "commands": [
+    {
+      "args": [
+        "C:\\nm75g64\\run\\nmfe75.bat",
+        "pheno.mod",
+        "results.lst"
+      ],
+      "returncode": 0,
+      "stdout": "stdout",
+      "stderr": "stderr"
+    }
+  ]
+}

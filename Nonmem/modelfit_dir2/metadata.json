@@ -1,0 +1,23 @@
+{
+    "pharmpy_version": "0.100.2",
+    "tool_name": "modelfit",
+    "stats": {
+        "start_time": "2023-08-28T18:24:44.846187+02:00",
+        "end_time": "2023-08-28T18:25:04.432576+02:00"
+    },
+    "tool_options": {
+        "model_or_models": [
+            "pheno"
+        ],
+        "n": null,
+        "tool": null
+    },
+    "common_options": {
+        "dispatcher": "pharmpy.workflows.dispatchers.local_dask",
+        "database": {
+            "class": "LocalDirectoryToolDatabase",
+            "toolname": "modelfit",
+            "path": "C:\\Users\\Cristian Valiante\\Documents\\GitHub\\Prueba\\Nonmem\\modelfit_dir2"
+        }
+    }
+}
